@@ -1,3 +1,6 @@
-# MEAN Stack (Angular 10) Tutorial: Upload Image File
+# bootstrap-5-modal-angular-15
 
-This source code is part of [MEAN Stack (Angular 10) Tutorial: Upload Image File](https://www.djamware.com/post/5f0533338ce55338fd15aca3/mean-stack-angular-10-tutorial-upload-image-file).
+Bootstrap 5 Modal Example with Angular 15
+
+Documentation at https://jasonwatmore.com/getting-the-bootstrap-5-modal-and-angular-15-to-play-nicely-together
+
